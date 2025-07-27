@@ -41,6 +41,7 @@ Then:
 ## 🗂️ Project Structure
 
 - `app.py` – 🎛️ Main Streamlit web interface  
+- .streamlit/secrets.toml - API keys
 - `video_utils.py` – 🎞️ Video processing and frame extraction  
 - `captioning.py` – 🧠 AI-powered frame captioning using BLIP  
 - `summarizer.py` – ✍️ Story generation using BART  
